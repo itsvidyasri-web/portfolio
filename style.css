@@ -243,3 +243,14 @@ footer {
         grid-template-columns: repeat(3, 1fr);
     }
 }
+.projects-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.project-card {
+    max-width: 320px;
+    text-align: center;
+}
